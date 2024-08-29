@@ -4,7 +4,7 @@
 
 ## 🔥 About Me
 
-I'm a passionate **Full-Stack Developer** based in **Karachi, Pakistan**. With a strong foundation in web technologies and a keen interest in continuous learning, I strive to build scalable and efficient applications that solve real-world problems. My journey in tech is driven by curiosity, creativity, and a commitment to excellence.
+I'm a passionate **Full-Stack Developer** based in **Bahawalpur, Pakistan**. With a strong foundation in web technologies and a keen interest in continuous learning, I strive to build scalable and efficient applications that solve real-world problems. My journey in tech is driven by curiosity, creativity, and a commitment to excellence.
 
 - 🌱 I’m currently learning **Machine Learning and AI** to enhance my ability to create intelligent applications.
 - 👯 I’m looking to collaborate on **open source projects**, **web applications**, and **AI-driven solutions**.
@@ -42,13 +42,6 @@ I'm a passionate **Full-Stack Developer** based in **Karachi, Pakistan**. With a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAshfaqdev&theme=radical)
 
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=HamzaAshfaqdev&theme=radical&column=7" alt="Hamza's GitHub Trophies" />
-
-## 📈 **Activity Graph**
-
-![Hamza's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamzaAshfaqdev&theme=react-dark&area=true&hide_border=true)
 
 ## 🚀 **Featured Projects**
 
